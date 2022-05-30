@@ -1,2 +1,9 @@
 exec
 prova
+
+*.pyc
+*.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+
+*.vscode/
